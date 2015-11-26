@@ -1,0 +1,14 @@
+#Fat Jar Configuration File
+#Thu Nov 26 10:52:21 KST 2015
+onejar.license.required=true
+manifest.classpath=jdatepicker_fat.jar
+manifest.removesigners=true
+onejar.checkbox=false
+jarname=jdatepicker_fat.jar
+manifest.mergeall=true
+manifest.mainclass=org.jdatepicker.features.Feature3
+manifest.file=<createnew>
+jarname.isextern=false
+onejar.expand=
+excludes=
+includes=
